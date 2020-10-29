@@ -1,0 +1,2 @@
+# MCQ-generator--NLP-project
+Nowadays, teachers/professors/tutors spend a lot of time generating test papers and quizzes manually. Similarly, students spend a lot of time on self-analysis. Moreover, students are dependent on their mentors for the self-analysis. Hence, I am working on this NLP project, which has a huge scope of development at this moment. We want to build a computer application system that can help you in calibrating yourself and remove any dependencies on mentors. So this project is relevant to both students and mentors.
