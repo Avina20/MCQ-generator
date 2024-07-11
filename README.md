@@ -1,4 +1,4 @@
-# MCQ-generator--NLP-project
+# MCQ-generator
 
 The problem statement undertaken is with regard to the children in the age group of 7-14 years, to enhance the learning experience and cultivate a desire of learning, and aid the teachers and the parents. I aim to develop an application that will create an objective questionnaire from a sample text (ex. a lesson or a chapter) to test the knowledge and understanding of the child with respect to the said text using natural language processing and neural networks. To develop an application that prepares a questionnaire based on a text fed into it and grades it. Based on the score obtained, it assigns the pass/fail status.
 
